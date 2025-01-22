@@ -30,7 +30,15 @@ internal class Program
                     } while (string.IsNullOrWhiteSpace(foodName));
 
                     Console.WriteLine("Enter the food item category: ");
-                    string foodCategory = Console.ReadLine();
+                    string foodCategory;
+                    do
+                    {
+                        foodCategory = Console.ReadLine();
+                        if (string.IsNullOrWhiteSpace(foodCategory))
+                        {
+                            Console.WriteLine("Food category cannot be empty. Please enter a valid category:");
+                        }
+                    } while (string.IsNullOrWhiteSpace(foodCategory));
 
                     Console.WriteLine("Enter the food item quantity: ");
                     string foodQuantity;

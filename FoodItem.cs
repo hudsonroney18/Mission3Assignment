@@ -21,6 +21,6 @@ public class FoodItem
 
     public string GetDetails()
     {
-        return $"\nFood name - {foodName} \n quantity: {quantity} \n expiration date: {expirationDate}\n";
+        return $"\nFood name - {foodName} \n category: {foodCategory} \n quantity: {quantity} \n expiration date: {expirationDate}\n";
     }
 }
