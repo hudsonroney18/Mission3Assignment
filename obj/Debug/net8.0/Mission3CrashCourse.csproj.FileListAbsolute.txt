@@ -12,3 +12,4 @@
 /Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.pdb
 /Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.genruntimeconfig.cache
 /Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/ref/Mission3CrashCourse.dll
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.sourcelink.json
