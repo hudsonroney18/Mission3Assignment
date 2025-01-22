@@ -1,0 +1,14 @@
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/bin/Debug/net8.0/Mission3CrashCourse
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/bin/Debug/net8.0/Mission3CrashCourse.deps.json
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/bin/Debug/net8.0/Mission3CrashCourse.runtimeconfig.json
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/bin/Debug/net8.0/Mission3CrashCourse.dll
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/bin/Debug/net8.0/Mission3CrashCourse.pdb
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.AssemblyInfoInputs.cache
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.AssemblyInfo.cs
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.csproj.CoreCompileInputs.cache
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.dll
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/refint/Mission3CrashCourse.dll
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.pdb
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/Mission3CrashCourse.genruntimeconfig.cache
+/Users/hudsonroney/RiderProjects/Mission3CrashCourse/obj/Debug/net8.0/ref/Mission3CrashCourse.dll
